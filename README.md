@@ -1,6 +1,6 @@
-# kcah
+# ckah
 its basically a fake hack :P that restarts chrome and on chromebooks restarts them WIP
-ckah spelt backwards is hack LOL
+ckah spelt backwards is hakc whitch is ALMOST hack LOL
 why did I do this
 because
 im weird
